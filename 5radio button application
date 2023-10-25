@@ -7,7 +7,7 @@ public class PetDisplayApp extends JFrame {
 
     public PetDisplayApp() {
         setTitle("Pet Display App");
-        setSize(300, 200);
+        setSize(500, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         // Create radio buttons
